@@ -1,0 +1,18 @@
+{
+    "manifest": {
+        "author": "GabssX#8949",
+        "name": "Mountain Theme",
+        "version": "0.0.1",
+        "license": "Apache License 2.0"
+    },
+    "background": {
+        "url": "https:\/\/cdn.discordapp.com\/attachments\/999207455982632990\/999877353020854314\/download.jpeg-1.jpg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/940678530197491775\/991347249365913750\/Soft_Elegance.ttf"
+    },
+    "simple_colors": {},
+    "colors": {},
+    "drawable_tints": {},
+    "raws": {}
+}
