@@ -2,14 +2,16 @@
     "manifest": {
         "author": "GabssX#8949",
         "name": "Mountain Theme",
-        "version": "0.0.1",
+        "transparency_mode": 3,
+        "version": "0.0.2",
         "license": "Apache License 2.0"
     },
     "background": {
-        "url": "https:\/\/cdn.discordapp.com\/attachments\/999207455982632990\/999877353020854314\/download.jpeg-1.jpg"
+        "blur-radius": 100,
+        "url": ""
     },
     "fonts": {
-        "*": "https:\/\/cdn.discordapp.com\/attachments\/940678530197491775\/991347249365913750\/Soft_Elegance.ttf"
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/929470419696758785\/993876086867890206\/Quicksand-Medium.ttf"
     },
     "simple_colors": {},
     "colors": {},
